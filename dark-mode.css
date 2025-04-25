@@ -1,0 +1,11 @@
+/* Dark Mode Styles */
+:root {
+    --cor-texto: #f0f0f0;
+    --cor-fundo: #121212;
+    --cor-secundaria: #333;
+}
+
+.header {
+    background-color: #121212;
+    box-shadow: 0 2px 5px rgba(255, 255, 255, 0.1);
+}
